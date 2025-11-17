@@ -1,0 +1,12 @@
+# Ignore executable and build artifacts
+*.exe
+*.o
+*.obj
+/build/
+
+# Ignore VS Code workspace and settings
+.vscode/
+
+# Ignore other common artifacts
+*.out
+.DS_Store
